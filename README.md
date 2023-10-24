@@ -1,3 +1,3 @@
 # Credit Card Fraud Classification
 
-This notebook demonstrates credit card fraud detection. A binary classifier is trained to perform fraud detection analysis on a credit card transaction dataset.
+A supervised learning model which detects credit card fraud. A binary classifier is trained to perform fraud detection analysis on a credit card transaction dataset (https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data)
