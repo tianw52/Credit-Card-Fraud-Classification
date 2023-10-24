@@ -1,2 +1,1 @@
-# ml-projects
-personal ml projects
+# Credit Card Fraud Classification
