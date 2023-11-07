@@ -23,7 +23,7 @@ We use a normalization layer to normalize the features first
 
 <img width="405" alt="Screenshot 2023-11-07 at 02 25 32" src="https://github.com/tianw52/Credit-Card-Fraud-Classification/assets/129543727/0e7f2dce-236f-4b95-813b-1596c751ca7e">
 
-Then we use a sequentail model with 4 activation layers !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! NEED INPUT
+Then we use a sequentail model with 4 activation layers. The first 3 layers use rectified linear (relu) activation function, output layer use sigmoid (logistic regression) which is commonly used in binary classification (the output is either 1 or 0)
 
 <img width="405" alt="Screenshot 2023-11-07 at 02 24 58" src="https://github.com/tianw52/Credit-Card-Fraud-Classification/assets/129543727/22648e79-d763-4639-b64e-d4fc8e150b16">
 
